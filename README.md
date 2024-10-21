@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning cybersecurity
 - 💞️ I’m looking for a internship
 - 📫 reach through linkdin
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  
 
 <!---
 NehaMathur64/NehaMathur64 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
